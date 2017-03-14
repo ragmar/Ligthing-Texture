@@ -18,6 +18,7 @@ To compile in visual studio, the header files must be on a "tools" folder that m
     - Tarea 5/tools/FreeImage (FreeImage)
 
 The libraries must be on a folder "lib" that must be created in the folder "Tarea 5" as follow:
+
     - Tarea 5/lib
 
 And the dll should be include on the compilation folder, in "Tarea 5"
