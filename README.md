@@ -10,7 +10,7 @@ This project requires compiling with visual studio 2015 and the following extern
 * [FreeGLUT] 3.0.0-2
 * [AntTweakBar] 1.16
 * [FreeImage] 3.17.0
-* 
+
 To compile in visual studio, the header files must be on a "tools" folder that must be created in the forlder "Tarea 5". The Header should be included as follow:
 
     - Tarea 5/tools/GL/ (freeglut headers)
