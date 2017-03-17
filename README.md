@@ -27,7 +27,7 @@ And the dll should be include on the compilation folder, in "Tarea 5"
 
 Here is an image of the application
 
-![alt tag] (./Screenshot/Ligthing-Texture.jpg)
+![alt tag](./Screenshot/Ligthing-Texture.jpg)
 
 
    [video]: <https://vimeo.com/37664294>
