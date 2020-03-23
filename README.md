@@ -1,5 +1,5 @@
 # Ligthing-Texture
-This is a project created by Alejandro Sans (sansalejandro@gmail.com) and Víctor Felipe for a Computer Graphic course (Universidad Central de Venezuela). 
+This is a project created by Alejandro Sans (sansalejandro@gmail.com) and Víctor Felipe (vjfn1990@gmail.com) for a Computer Graphic course (Universidad Central de Venezuela). 
 
 This projects show the ligthing and texturing integrated in Glut. ALso it shows a basic  collision with static objects when moving (w, a, s, d). It allows the user to change the ligthing effects.
 
